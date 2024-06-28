@@ -1,0 +1,5 @@
+
+module.exports = {
+  apiKey: '0x75435cff89d23492812d57da3af49627ba95ca481bee2ab60504cca714d58add', // Replace with your actual API key
+  // Add other configuration options if required by your EAS provider
+};
